@@ -1,0 +1,33 @@
+.mainbox {
+  height: 80vh;
+  width: 100%;
+  background-color: rgb(9, 210, 143);
+  background-image: url(../imges/main2food.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  align-items: center;
+  color: aliceblue;
+}
+
+.box6 {
+  margin-left: 10%;
+  color: white;
+}
+
+.link-box {
+  height: 2rem;
+  width: 4rem;
+  background-color: rgb(233, 224, 224);
+  border-radius: 5px;
+  color: black;
+  margin-top: 2%;
+}
+
+.link-box a {
+  text-decoration: none;
+  color: black;
+  font-size: larger;
+  font-weight: bolder;
+  margin-left: 5px;
+}

@@ -1,0 +1,14 @@
+
+
+.Box5{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  flex-direction: column;
+  padding: 5rem;
+}
+
+ul{
+  margin-top:2rem;
+}
